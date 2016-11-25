@@ -1,6 +1,6 @@
 include("500_FUNCTIONAL========");
 
-// Fonction Match : a -> b -> Bool
+// Fonction Match : a -> a -> Bool
 // a est la valeur de l'utilisateur par exemple si un argument est "null", a = null
 // b est l'argument
 // Par exemple : 'Just a' sera traduit en : 'inJust(a)' Si l'argument est un Just alors a prend la valeur encapsulé
